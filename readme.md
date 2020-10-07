@@ -7,6 +7,6 @@ My name is Jonas and I am from Germany 🇩🇪. I love creating stuff 💻 and 
 ## contact me 📝
 You can contact me via. Discord 💬 (`3qc#0001`) or Twitter 🐦 (`@only3qc`)
 ## can i support you 💶
-Sure, you can donate 💰! https://paypal.me/theonlyjxnas
+Sure, you can donate 💰 https://paypal.me/theonlyjxnas
 
 ©️ 2020 | 3qc#0001, all rights reserved.
