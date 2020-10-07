@@ -1,5 +1,5 @@
 ## hi 👋
-My name is Jonas and I am from Germany 🇩🇪. I love programming 💻 and can code in Java ☕, PHP 🕸️, use scripting languages like HTML 📜, and am learning C++ ⚙️.
+My name is Jonas and I am from Germany 🇩🇪. I love creating stuff 💻 and can code in Java ☕, PHP 🕸️, use scripting languages like HTML 📜, and am learning C++ ⚙️.
 ## my projects 🚧
  - ⚡ FlashSniper (sadly not open-source)
  - 👦 My website
