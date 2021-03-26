@@ -9,4 +9,4 @@ You can contact me via. Discord (`cxt#1234`) or Twitter (`@onlycxt`)
 ## can i support you 💶
 Sure, you can donate https://paypal.me/theonlyjxnas
 
-©️ 2020 | 3qc#0001, all rights reserved.
+©️ 2021 | cxt#1234, all rights reserved.
