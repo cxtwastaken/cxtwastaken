@@ -6,6 +6,6 @@ My name is Jonas and I am from Germany.
 ## 📝 Contact
 You can contact me via Discord (`cxt#1234`) or Twitter (`@onlycxt`)
 ## 💶 Sponsoring
-GitHub introduced a sponsoring feature which you can also use on my account!
+Click [here](https://buymeacoffee.com/cxt.wtf).
 
 ©️ 2021 | cxt#1234, all rights reserved.
