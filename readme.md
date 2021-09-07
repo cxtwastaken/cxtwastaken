@@ -4,7 +4,7 @@ My name is Jonas and I am from Germany.
  - [HytoraCloud](https://github.com/HytoraCloud)
  - [GoBot](https://github.com/wtfcxt/GoBot)
 ## 📝 Contact
-You can contact me via Discord (`cxt#1234`) or Twitter (`@onlycxt`)
+You can contact me via Discord (`cxt#1234`) or Twitter (`@wtfcxt`)
 ## 💶 Sponsoring
 Click [here](https://buymeacoffee.com/cxt.wtf).
 
